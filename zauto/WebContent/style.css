@@ -35,3 +35,7 @@ body {
 	display: inline-block;
 	height: 100%;
 }
+
+#DEL {
+	color:aqua;
+}
