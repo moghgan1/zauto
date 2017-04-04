@@ -16,7 +16,7 @@
 </head>
 <body>
 
-	<div id="main-content-area-section">
+	<div class="hi" id="main-content-area-section">
 		<div id="zaleft"></div>
 		<div id="centline"></div>
 		<div id="zaright">
