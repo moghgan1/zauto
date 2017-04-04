@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>ZAutomation Title</title>
+<title>ZAuto Title</title>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -16,7 +16,7 @@
 </head>
 <body>
 
-	<div title='Main' id="main-content-area-section">
+	<div id="main-content-area-section">
 		<div id="zaleft"></div>
 		<div id="centline"></div>
 		<div id="zaright">
